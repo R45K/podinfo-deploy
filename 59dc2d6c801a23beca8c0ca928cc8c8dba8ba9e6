@@ -1,0 +1,1 @@
+{"jobID":"7b6914c3-f120-3dc3-74fe-3dfc7119fcf1","spec":{"type":"policy","cause":{"Message":"","User":"Raul Ospina \u003crospina@safefleet.net\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
